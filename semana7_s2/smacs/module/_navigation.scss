@@ -1,0 +1,11 @@
+.navigation {
+	color: red;
+
+	&__item {
+		color: blue;
+
+		&__link {
+			color: red;
+		}
+	}
+}
